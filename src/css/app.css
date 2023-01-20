@@ -1,0 +1,21 @@
+.links {
+    list-style-type: none;
+    display: grid;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+li {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.link {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
